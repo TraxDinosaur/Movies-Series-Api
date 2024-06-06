@@ -1,11 +1,5 @@
 # Movie-Series-Api
 
-![GitHub repo size](https://img.shields.io/github/repo-size/TraxDinosaur/Movie-Series-Api)
-![GitHub stars](https://img.shields.io/github/stars/TraxDinosaur/Movie-Series-Api)
-![GitHub forks](https://img.shields.io/github/forks/TraxDinosaur/Movie-Series-Api)
-![GitHub issues](https://img.shields.io/github/issues/TraxDinosaur/Movie-Series-Api)
-![GitHub license](https://img.shields.io/github/license/TraxDinosaur/Movie-Series-Api)
-
 This project provides a Flask-based API to fetch Bollywood, Hollywood movies, and web series details along with their images.
 
 ## Features
